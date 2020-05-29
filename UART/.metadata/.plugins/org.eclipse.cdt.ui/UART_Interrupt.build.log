@@ -1,0 +1,7 @@
+22:34:32 **** Clean-only build of configuration Debug for project UART_Interrupt ****
+make -j8 clean 
+rm -rf *
+ 
+
+22:34:33 Build Finished. 0 errors, 0 warnings. (took 675ms)
+
