@@ -1,0 +1,13 @@
+#include "main.h"
+
+void SysTick_Handler(void)
+{
+	HAL_IncTick();
+	HAL_SYSTICK_IRQHandler();
+}
+
+void TIM1_UP_TIM10_IRQHandler()
+{
+	TIM10->SR &= ~(0x0001);
+	HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
+}

@@ -1,0 +1,7 @@
+23:03:08 **** Clean-only build of configuration Debug for project TIM_Capture ****
+make -j8 clean 
+rm -rf *
+ 
+
+23:03:09 Build Finished. 0 errors, 0 warnings. (took 297ms)
+
