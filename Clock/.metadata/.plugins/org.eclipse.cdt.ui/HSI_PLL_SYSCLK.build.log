@@ -1,7 +1,0 @@
-22:38:28 **** Clean-only build of configuration Debug for project HSI_PLL_SYSCLK ****
-make -j8 clean 
-rm -rf *
- 
-
-22:38:29 Build Finished. 0 errors, 0 warnings. (took 452ms)
-

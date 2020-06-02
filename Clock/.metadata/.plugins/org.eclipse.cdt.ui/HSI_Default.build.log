@@ -1,7 +1,0 @@
-23:14:18 **** Clean-only build of configuration Debug for project HSI_Default ****
-make -j8 clean 
-rm -rf *
- 
-
-23:14:19 Build Finished. 0 errors, 0 warnings. (took 266ms)
-
