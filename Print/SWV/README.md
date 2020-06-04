@@ -5,7 +5,7 @@ It is very simple to debug applications for STM32  using printf like statements 
 #### Follow these simple steps to enable the SWV.
 1. Enable SWV in Debug configurations
 
-![](1.png)
+![ ](images/1.png)
 
 2. Modify write function in syscalls.c and implement function to write data to ITM
 
@@ -13,5 +13,5 @@ It is very simple to debug applications for STM32  using printf like statements 
 
 4. Select Port 0 as stimulus port under Configure Trace and Start Trace
 
-![](2.png)
+![ ](images/2.png)
 
