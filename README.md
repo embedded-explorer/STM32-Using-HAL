@@ -8,5 +8,5 @@ STMCubeIDE
 
 #### Development Boards
 
-NUCLEO-F401RE
+NUCLEO-F401RE<br>
 STM32F103C8-BluePill
