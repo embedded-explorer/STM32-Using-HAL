@@ -1,6 +1,6 @@
 ## STM32 Programming Using ST HAL
 
-This Repository Contains example programs for STM32 NUCLEO-F401RE development board using ST's HAL.
+Why Auto-Generate code with cubeMX give a try to program your application using ST's Hardware Abstraction Layer (HAL). This reposetory contains program examples for NUCLEO-F401RE.
 #### Software Used
 
 STMCubeIDE
