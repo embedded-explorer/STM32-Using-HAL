@@ -1,4 +1,4 @@
-<h2 align="center">Testing WFE Instruction</h2>
+<h2 align="center">Testing WFI Instruction</h2>
 
 Write an application to send data over UART when button interrupt is caused.</br>
 Without WFI: Idle - 3.2mA, Button Press - 3.5mA</br>
